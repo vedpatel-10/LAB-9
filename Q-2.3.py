@@ -11,3 +11,7 @@ def vowel_count(s,i=0):
 
 s = input("Enter a string in small alphabets: ")
 print(vowel_count(s,i=0))
+
+#OUTPUT:
+# Enter a string in small alphabets: hello programmer, learning python?
+# 9
