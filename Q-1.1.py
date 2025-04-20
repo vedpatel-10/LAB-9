@@ -11,3 +11,7 @@ def count_lower_upper(s):
 
 s = input("Enter a string: ")
 print(count_lower_upper(s))   
+
+#OUTPUT:
+# Enter a string: Hello world, Ved Patel here.
+# {'upper case': 3, 'lower case': 19} 
