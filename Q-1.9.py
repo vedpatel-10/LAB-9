@@ -12,3 +12,7 @@ def count_alpha_digits(s):
 
 s = input("Enter a string : ")
 print(count_alpha_digits(s))
+
+#OUTPUT:
+# Enter a string : I have 5 pencils and 2 erasers
+# {'Alphabets': 22, 'Digits': 2} 
