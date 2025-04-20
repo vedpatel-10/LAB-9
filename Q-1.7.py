@@ -14,3 +14,7 @@ def ispalindrome(s):
 
 s  = input("Enter a string: ")
 print(ispalindrome(s))
+
+#OUTPUT:
+# Enter a string: malayalam
+# Yes, it is a palindrome
