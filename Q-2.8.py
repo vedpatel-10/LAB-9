@@ -7,3 +7,6 @@ s = "Hello world"
 print("length of the string is :")
 print(len_string(s,i=0))
 
+#OUTPUT:
+# length of the string is :
+# 11
