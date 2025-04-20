@@ -8,3 +8,7 @@ def ispangram(s):
 s = input("Enter a string in small alphabets: ")    
 ans = ispangram(s)
 print(ans)
+
+#OUTPUT:
+# Enter a string in small alphabets: the quick brown fox jumps all over lazy dog.
+# yes, it is a pangram 
