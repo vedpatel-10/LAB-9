@@ -13,4 +13,6 @@ elif num == 1:
 else:
     print(prime_factor(num))
 
-
+#OUTPUT:
+# Enter a number : 17
+# [17]  
