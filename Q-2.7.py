@@ -11,3 +11,7 @@ print(lst)
 print("Average is :")
 print(calculate_average(lst,i=0))
 
+#OUTPUT:
+# [6, 8, 11, 11, 10, 5, 6, 9, 4, 6]
+# Average is :
+# 7.599999999999999 
