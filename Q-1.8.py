@@ -8,3 +8,7 @@ def convert(s):
 
 s = input("Enter a string :")
 print(convert(s)) 
+
+#OUTPUT:
+# Enter a string :lion is the king of jungle
+# is jungle king lion of the
