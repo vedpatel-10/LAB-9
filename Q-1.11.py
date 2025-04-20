@@ -8,3 +8,6 @@ def create_list(lst1,lst2):
 lst1 = [23,534,5,545574,94657,56,42,6,0,42,2555,863,35]
 lst2 = [23,35,234,4534,545,"fggf",545574]
 print(create_list(lst1,lst2))   
+
+#OUTPUT:
+# {35, 545574, 23} 
