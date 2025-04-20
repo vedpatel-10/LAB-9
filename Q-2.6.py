@@ -14,3 +14,6 @@ lst = [234,-324,4324,-23,-23,-373,24,-32,234,-53,0]
 print("Sanitizing the list: ")
 print(list_sanitizer(lst,i=0)) 
 
+#OUTPUT:
+# Sanitizing the list: 
+# [234, 0, 4324, 0, 0, 0, 24, 0, 234, 0, 0]   
