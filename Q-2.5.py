@@ -8,4 +8,7 @@ b = int(input("Enter the power number: "))
 c = calculate(a,b)
 print(c)
 
-
+#OUTPUT:
+# Enter the base number: 3
+# Enter the power number: 6
+# 729   
